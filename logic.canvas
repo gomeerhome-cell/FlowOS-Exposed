@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"6005199bc8c4ebf3","type":"file","file":"README/images.jpg","x":1667,"y":-2033,"width":400,"height":400},
+		{"id":"05643315ab35ba2b","type":"file","file":"README/firefox_ZCHPEZ2zoS.png","x":1407,"y":-1493,"width":373,"height":400},
+		{"id":"b4fe3d720cc873c7","type":"text","text":"это буквально копия","x":1307,"y":-1693,"width":250,"height":60},
+		{"id":"ca21d5b309c29bbd","type":"file","file":"README/firefox_rimRzAYDhm.png","x":100,"y":-640,"width":502,"height":300},
+		{"id":"68736e1788e01758","type":"file","file":"README/firefox_1fkeUEhJQ5.png","x":-200,"y":-1420,"width":405,"height":168},
+		{"id":"f0cbafef63d6691f","type":"text","text":"НАЕБ","x":291,"y":-1101,"width":250,"height":60},
+		{"id":"034497d738d6d060","type":"file","file":"README/w6er85jtjd0i1.jpeg","x":841,"y":-962,"width":400,"height":179},
+		{"id":"f5beb6a713beb672","type":"file","file":"README/foto.png","x":1241,"y":-452,"width":400,"height":225},
+		{"id":"44ec9f72e74a1335","type":"file","file":"README/firefox_13ikIM3SOd.png","x":1241,"y":-33,"width":400,"height":225},
+		{"id":"205b1d2d5a2ac0f4","type":"text","text":"сходство на лицо ","x":1391,"y":-512,"width":250,"height":60},
+		{"id":"687f1e0047926a60","type":"file","file":"README/waydroid.png","x":1241,"y":-188,"width":400,"height":114},
+		{"id":"64e73d21a8523ecf","type":"text","text":"НАЕБ","x":1851,"y":-525,"width":250,"height":70},
+		{"id":"e47e3c6249e982ac","type":"text","text":"НАЕБ","x":280,"y":-100,"width":250,"height":50},
+		{"id":"ac06916d4745cee7","type":"text","text":"ЭТО НАШИ 4 ВСАДНИКА АПОКАЛИПСЕСА ДЛЯ FlowOS ","x":841,"y":-783,"width":400,"height":72},
+		{"id":"e737b12be1908f77","type":"file","file":"README/firefox_hy4TcOv1Tw.png","x":260,"y":-1683,"width":400,"height":347},
+		{"id":"3b252801c4f92ea4","type":"file","file":"README/firefox_qvApzYcve5.png","x":1780,"y":-327,"width":927,"height":127},
+		{"id":"db649bd0723ab4a7","type":"file","file":"README/firefox_b936dAFgMd.png","x":-280,"y":-266,"width":400,"height":382}
+	],
+	"edges":[
+		{"id":"a25de3d4ba86f631","fromNode":"05643315ab35ba2b","fromSide":"right","toNode":"6005199bc8c4ebf3","toSide":"bottom"},
+		{"id":"39568e366c1e0964","fromNode":"f5beb6a713beb672","fromSide":"bottom","toNode":"687f1e0047926a60","toSide":"top"},
+		{"id":"0a624cd624c16495","fromNode":"687f1e0047926a60","fromSide":"top","toNode":"205b1d2d5a2ac0f4","toSide":"bottom"},
+		{"id":"a0800ad41850b423","fromNode":"687f1e0047926a60","fromSide":"bottom","toNode":"44ec9f72e74a1335","toSide":"top"},
+		{"id":"447c48d290258134","fromNode":"b4fe3d720cc873c7","fromSide":"top","toNode":"6005199bc8c4ebf3","toSide":"left"},
+		{"id":"cf500c4b7caba032","fromNode":"b4fe3d720cc873c7","fromSide":"bottom","toNode":"05643315ab35ba2b","toSide":"top"},
+		{"id":"6507f489b0b9e1b9","fromNode":"64e73d21a8523ecf","fromSide":"top","toNode":"034497d738d6d060","toSide":"right"},
+		{"id":"158d837c550e33d4","fromNode":"e47e3c6249e982ac","fromSide":"top","toNode":"ac06916d4745cee7","toSide":"bottom"},
+		{"id":"dfc782a6cd4ac374","fromNode":"b4fe3d720cc873c7","fromSide":"left","toNode":"034497d738d6d060","toSide":"top"},
+		{"id":"3678133ce184a715","fromNode":"f0cbafef63d6691f","fromSide":"bottom","toNode":"034497d738d6d060","toSide":"left"},
+		{"id":"837f4372923a2e5f","fromNode":"68736e1788e01758","fromSide":"top","toNode":"e737b12be1908f77","toSide":"left"},
+		{"id":"c3e702a664cc3082","fromNode":"e737b12be1908f77","fromSide":"bottom","toNode":"f0cbafef63d6691f","toSide":"top"},
+		{"id":"99c70725aadee8da","fromNode":"687f1e0047926a60","fromSide":"right","toNode":"3b252801c4f92ea4","toSide":"left"},
+		{"id":"e9e63d903fff8f86","fromNode":"3b252801c4f92ea4","fromSide":"top","toNode":"64e73d21a8523ecf","toSide":"bottom"},
+		{"id":"3fd187bef98c38ee","fromNode":"ca21d5b309c29bbd","fromSide":"left","toNode":"db649bd0723ab4a7","toSide":"top"},
+		{"id":"0f2cb1db164be45e","fromNode":"db649bd0723ab4a7","fromSide":"right","toNode":"e47e3c6249e982ac","toSide":"left"}
+	]
+}
